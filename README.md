@@ -1,2 +1,62 @@
-readme
+
 # github.io
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Santa Fe</title>
+        <style>
+        h1 {color: red; background-color: yellow; font-weight: bold; font: 20px;   text-align: center; }    
+        h2 {color: black;
+            background-color: YELLOW;
+            text-align: center; font-family: cursive,monospace;}
+        h3 {color: black;
+            background-color: tan;
+            text-align: center;}
+            
+            #donuts{background-color: LIGHTblue; 
+            font-family: cursive,monospace;}
+      
+            .button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: green;}
+    </style>        
+    </head>
+    <body>
+        
+        <h1  >SANTA FE, NEW MEXICO<br>ver 1 </h1>
+        
+        <h2>The City Different</h2>
+        <h3>To a 1 hour course on CSS<br>
+            On Tuesday Decmeber 3rd<br>
+            at 10 am<br>
+            In Conference Room D-3
+        </h3>
+        <p id="donuts"> Coffee and Donuts Provided</p>
+        
+        <p>The agenda:</p>
+        <ul>
+            <li>
+                Formatting rules  </li>
+        <li>
+                Fonts explained  </li>   
+         <li> How to show images from the internet
+         </li>
+        
+         </ul>
+         
+         <h3>RSVP Button</h3>
+
+
+<button class="button">YES</button>
+
+        </body>
+</html>

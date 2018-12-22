@@ -1,1 +1,45 @@
-
+ h1 {color: red; background-color: yellow; font-weight: bold; font: 20px;  
+            text-align: center;
+             border:  3px solid blue;
+             margin-top: 0px;
+             margin-left: 30%;
+             margin-right: 30%;
+            }    
+     #container-page {
+         width: 1450px; 
+         height: 1000px;
+   /*    margin: auto; */
+         border:  3px solid blue;
+         padding: 10px;
+         background-color: lightblue;
+         z-index: 1;
+            }        
+  #pic {
+         width: 250px; height: 175px; 
+         position: absolute;
+           border:  3px solid blue;
+            top: 45px;
+            left: 50px;
+            z-index: 3;
+            }           
+        #pic-words {
+         width: 200px; height: 15px; 
+         position: absolute;
+            top: 200px;
+            left:135px;
+            font-size: 20px;
+            z-index: 4;
+            }                
+       #lat-sidebar {
+               width: 250px; height: 175px; 
+                background: lightgreen;  
+                color: blue;
+                font-family: monospace,cursive;
+                 font-size:15px;
+                 font-weight:bold;
+                 border: 3px solid darkgreen;
+                 padding: 10px;   
+                 position:absolute;
+                top: 45px;
+                left: 1200px;
+            }  

@@ -1,9 +1,10 @@
  h1 {color: red; background-color: yellow; font-weight: bold; font: 20px;  
-            text-align: center;
+           /* text-align: center; */
+            text-align: leftr;
              border:  3px solid blue;
              margin-top: 0px;
-             margin-left: 30%;
-             margin-right: 30%;
+             margin-left: 31%;
+             margin-right: 50%; /*30%*/
             }    
      #container-page {
          width: 1450px; 

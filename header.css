@@ -1,14 +1,14 @@
  h1 {color: red;
-     background-color: lightyellow;
+     background-color: orange;
      font-weight: bold;
      font: 15px;  
-     font-family: "fantasy",monospace;
+     font-family: fantasy,cursive;
            /* text-align: center; */
             text-align: center;
              border:  3px solid blue;
              margin-top: 0px;
-             margin-left: 20%;
-             margin-right: 50%; /*30%*/
+             margin-left: 5%;
+             margin-right: 35%; /*30%*/
             }    
      #container-page {
          width: 1450px; 

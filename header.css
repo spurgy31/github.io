@@ -1,5 +1,5 @@
  h1 {color: red;
-     background-color: yellow;
+     background-color: lightyellow;
      font-weight: bold;
      font: 15px;  
      font-family: "fantasy",monospace;
@@ -8,7 +8,7 @@
              border:  3px solid blue;
              margin-top: 0px;
              margin-left: 20%;
-             margin-right: 60%; /*30%*/
+             margin-right: 50%; /*30%*/
             }    
      #container-page {
          width: 1450px; 

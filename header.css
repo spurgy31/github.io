@@ -7,8 +7,8 @@
             text-align: center;
              border:  3px solid blue;
              margin-top: 0px;
-             margin-left: 5%;
-             margin-right: 35%; /*30%*/
+             margin-left: 2%;
+             margin-right: 65%; /*30%*/
             }    
      #container-page {
          width: 1450px; 
@@ -24,7 +24,7 @@
          position: absolute;
            border:  3px solid blue;
             top: 45px;
-            left: 250px;
+            left: 300px;
             z-index: 3;
             }           
         #pic-words {

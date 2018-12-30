@@ -1,5 +1,5 @@
  h1 {color: red;
-     background-color: orange;
+     background-color: rgb(255,255,51);
      font-weight: bold;
      font: 15px;  
      font-family: fantasy,cursive;
@@ -31,7 +31,7 @@
          width: 200px; height: 15px; 
          position: absolute;
             top: 200px;
-            left:520px;
+            left:560px;
             font-size: 20px;
             z-index: 4;
             }                

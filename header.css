@@ -48,7 +48,7 @@
                 top: 45px;
                 left: 1200px;
             }  
-.but-lodge {
+.btn-lodge {
           border: none;
           position: absolute;
           top: 260px;
@@ -61,7 +61,7 @@
           margin: 4px 2px;
           cursor: pointer;
          }
-.but-rental {
+.btn-rental {
           border: none;
           position: absolute;
           top: 260px;
@@ -74,7 +74,7 @@
           margin: 4px 2px;
           cursor: pointer;
          }
-.but-museum {
+.btn-museum {
           border: none;
           position: absolute;
           top: 260px;

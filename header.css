@@ -61,6 +61,21 @@
           margin: 4px 2px;
           cursor: pointer;
          }
+   .button-color-blue
+         {color:white!important;background-color:blue!important}
+   .button-color-red
+         {color:white!important;background-color:red!important}
+   .button-color-green
+         {color:white!important;background-color:green!important}
+   .button-color-orange
+         {color:white!important;background-color:orange!important}
+   .button-color-brown
+         {color:white!important;background-color:brown!important}
+   .button-color-black
+         {color:white!important;background-color:black!important}
+   .button-color-yellow
+         {color:white!important;background-color:yellow!important}
+
 .btn-rental {
           border: none;
           position: absolute;

@@ -10,7 +10,7 @@
              margin-right: 30%; /*30%*/
             }    
  h3 {color: red;
-     background-color: rgb(255,255,51);
+     background-color: yellow;
      font-weight: bold;
      font: 15px;  
      font-family: fantasy,cursive;
@@ -19,7 +19,7 @@
              margin-top: 0px;
              margin-left: 30%;
              margin-right: 30%; /*30%*/
-             margin-bottom: 200px;   /*added Feb 2 1155am */
+             margin-bottom: 350px;   /*added Feb 2 1155am */
             }    
      #container-page {
          width: 1450px; 
@@ -30,6 +30,7 @@
          background-color: lightblue;
          z-index: 1;
             }        
+ 
   #pic {
          width: 250px; height: 175px; 
          position: absolute;
@@ -47,6 +48,15 @@
             font-size: 20px;
             z-index: 4;
             }                
+        #container-page-1 {
+         width: 550px; 
+         height: 500px;
+   /*    margin: auto; */
+         border:  3px solid blue;
+         padding: 10px;
+         background-color: lightblue;
+         z-index: 5;
+            }        
        #lat-sidebar {
                width: 250px; height: 175px; 
                 background: lightgreen;  

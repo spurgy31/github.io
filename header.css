@@ -57,10 +57,10 @@
          background-color: lightblue;
          z-index: 5;
             }        
-        #drive-words-1 {
-         width: 200px; height: 15px; 
+        #drive-words-1  
+         width: 400px; height: 15px; 
          position: absolute;
-            top: 300px;
+            top: 200px;
             left:55px;
             font-size: 20px;
             z-index: 6;

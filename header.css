@@ -57,6 +57,14 @@
          background-color: lightblue;
          z-index: 5;
             }        
+        #drive-words-1 {
+         width: 200px; height: 15px; 
+         position: absolute;
+            top: 300px;
+            left:55px;
+            font-size: 20px;
+            z-index: 6;
+            }                
        #lat-sidebar {
                width: 250px; height: 175px; 
                 background: lightgreen;  

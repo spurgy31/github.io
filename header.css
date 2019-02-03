@@ -48,15 +48,15 @@
             font-size: 20px;
             z-index: 4;
             }                
-        #container-page-1 {
+/*        #container-page-1 {
          width: 550px; 
          height: 500px;
-   /*    margin: auto; */
+        margin: auto; 
          border:  3px solid blue;
          padding: 10px;
          background-color: lightblue;
          z-index: 5;
-            }        
+            }      
         #drive-words-1  
          width: 400px; height: 15px; 
          position: absolute;
@@ -64,7 +64,7 @@
             left:55px;
             font-size: 20px;
             z-index: 6;
-            }                
+            }        */         
        #lat-sidebar {
                width: 250px; height: 175px; 
                 background: lightgreen;  

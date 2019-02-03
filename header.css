@@ -9,18 +9,18 @@
              margin-left: 30%;
              margin-right: 30%; /*30%*/
             }    
-/* h4 {color: red;
+ h4 {color: red;
      background-color: rgb(255,255,51);
      font-weight: bold;
      font: 15px;  
      font-family: fantasy,cursive;
              text-align: center;
              border:  3px solid blue;
-             margin-top: 0px;
-             margin-left: 30%;
-             margin-right: 30%;  
+             margin-top: 400px;
+             margin-left: 55%;
+             margin-right: 10%;  
             margin-bottom: 350px;    
-            }    */
+            }    
      #container-page {
          width: 1450px; 
          height: 1000px;
@@ -48,7 +48,7 @@
             font-size: 20px;
             z-index: 4;
             }                
-/*        #container-page-1 {
+      #container-page-1 {
          width: 550px; 
          height: 500px;
         margin: auto; 
@@ -64,12 +64,11 @@
             left:55px;
             font-size: 20px;
             z-index: 6;
-            }        */         
+            }                
        #lat-sidebar {
                width: 250px; height: 175px; 
                 background: lightgreen;  
                 color: blue;
-        
                 font-family: monospace,cursive;
                  font-size:15px;
                  font-weight:bold;

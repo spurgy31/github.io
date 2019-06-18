@@ -1,5 +1,5 @@
- h1 {color: red;
-     background-color: rgb(255,255,51);
+ h1 {color: blue;  /*red;*/    
+  background-color: rgb(255,255,51);
      font-weight: bold;
      font: 15px;  
      font-family: fantasy,cursive;
